@@ -41,3 +41,6 @@ Another shortcoming could be curve. The current lane line is drawing by "line" f
 
 A possible improvement would be to kalman filter to correct new line with previous. This method avoid the noise in some frame. We can get great direction in most frames.
 Another one is using curve function to draw lane line.
+
+### References:
+https://sites.coecis.cornell.edu/chaowang/2016/12/30/finding-lane-lines/
